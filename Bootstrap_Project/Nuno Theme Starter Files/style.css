@@ -146,6 +146,7 @@ margin-top: 1.5rem;
 /*----Clients Section----*/
 .clients img{
   width:30%;
+  height:20%;
   border-radius: 50%;
 }
 blockquote{
